@@ -5,7 +5,7 @@
 </div>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=m3gd4d1&label=Views&color=orange&style=for-the-badge" alt="m3gd4d1" /> 
+    <img src="https://komarev.com/ghpvc/?username=Abulmeg&label=Views&color=orange&style=for-the-badge" alt="Abulmeg" /> 
 </p>
 
 ---
@@ -40,11 +40,11 @@ I am passionate about writing clean, optimized code and am actively seeking oppo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3gd4d1&theme=high-contrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abulmeg&theme=high-contrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3gd4d1&layout=compact&theme=transparent&hide_border=true&title_color=FF8C00&text_color=FFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abulmeg&layout=compact&theme=transparent&hide_border=true&title_color=FF8C00&text_color=FFF" alt="Top Languages" />
 </div>
 
 ---
